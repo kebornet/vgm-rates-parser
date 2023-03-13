@@ -1,0 +1,11 @@
+nbproject
+.idea
+.DS_Store
+
+spreedsheets/*
+!spreedsheets/.gitkeep
+
+results/*
+!results/.gitkeep
+
+vendor/

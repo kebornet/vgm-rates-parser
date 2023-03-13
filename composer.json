@@ -1,0 +1,14 @@
+{
+    "name": "niyaz/vgm-rates-parser",
+    "description": "Parser for processing for spreadsheet",
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "phpoffice/phpspreadsheet": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "VgmRates\\": "src/"
+        }
+    }
+}
